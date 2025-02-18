@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12448a3d-9a86-409d-bbbd-818fbc16226f" name="Changes" comment="Third question done">
-      <change afterPath="$PROJECT_DIR$/question4.py" afterDir="false" />
+    <list default="true" id="12448a3d-9a86-409d-bbbd-818fbc16226f" name="Changes" comment="Fourth question done">
+      <change afterPath="$PROJECT_DIR$/question5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +49,8 @@
     "Python.EXAM.executor": "Run",
     "Python.question2.executor": "Run",
     "Python.question3.executor": "Run",
+    "Python.question4.executor": "Run",
+    "Python.question5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main"
@@ -206,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739891842057</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fourth question done">
+      <option name="closed" value="true" />
+      <created>1739892000448</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739892000448</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -214,6 +224,7 @@
     <MESSAGE value="First question done" />
     <MESSAGE value="Second question done" />
     <MESSAGE value="Third question done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Third question done" />
+    <MESSAGE value="Fourth question done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fourth question done" />
   </component>
 </project>
