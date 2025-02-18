@@ -12,4 +12,8 @@ print("List after append:", my_list)
 my_string = "hello"
 print("Original string:", my_string)
 
-my_string[0] = "H" # This will cause an error
+# my_string[0] = "H"  # We've seen how this has caused a message that says error
+
+# Instead, we need to create a new string
+new_string = "H" + my_string[1:]
+print("Modified string:", new_string)  # Creates a new string instead of modifying the original
