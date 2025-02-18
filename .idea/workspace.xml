@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12448a3d-9a86-409d-bbbd-818fbc16226f" name="Changes" comment="Fith question done">
-      <change afterPath="$PROJECT_DIR$/question6.py" afterDir="false" />
+    <list default="true" id="12448a3d-9a86-409d-bbbd-818fbc16226f" name="Changes" comment="Sixth question done (Second commit: error is solved)">
+      <change afterPath="$PROJECT_DIR$/question7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,7 @@
     "Python.question4.executor": "Run",
     "Python.question5.executor": "Run",
     "Python.question6.executor": "Run",
+    "Python.question7.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main"
@@ -224,7 +226,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739892886718</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Sixth question done (First commit: containing the error)">
+      <option name="closed" value="true" />
+      <created>1739893414924</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1739893414924</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Sixth question done (Second commit: error is solved)">
+      <option name="closed" value="true" />
+      <created>1739893507015</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1739893507015</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -234,6 +252,8 @@
     <MESSAGE value="Third question done" />
     <MESSAGE value="Fourth question done" />
     <MESSAGE value="Fith question done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fith question done" />
+    <MESSAGE value="Sixth question done (First commit: containing the error)" />
+    <MESSAGE value="Sixth question done (Second commit: error is solved)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sixth question done (Second commit: error is solved)" />
   </component>
 </project>
