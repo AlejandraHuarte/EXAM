@@ -16,3 +16,6 @@ def days_since_birthday(birthday):
 
     # Multiply by 365 to get the total number of days
     return full_years_passed * 365
+
+# Example usage
+print(days_since_birthday("15-08-2000"))  # Assuming the user enters 2025 as the current year, it should return 8765

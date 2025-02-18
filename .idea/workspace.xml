@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12448a3d-9a86-409d-bbbd-818fbc16226f" name="Changes" comment="Eighth question done">
-      <change afterPath="$PROJECT_DIR$/question9.py" afterDir="false" />
-    </list>
+    <list default="true" id="12448a3d-9a86-409d-bbbd-818fbc16226f" name="Changes" comment="Ninth question done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -259,7 +257,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739894190419</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Ninth question done">
+      <option name="closed" value="true" />
+      <created>1739894320782</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1739894320782</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -273,6 +279,7 @@
     <MESSAGE value="Sixth question done (Second commit: error is solved)" />
     <MESSAGE value="Seventh question done" />
     <MESSAGE value="Eighth question done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Eighth question done" />
+    <MESSAGE value="Ninth question done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ninth question done" />
   </component>
 </project>
